@@ -47,7 +47,7 @@ Married-couple households have the highest median income, followed by male house
 Nonfamily households, particularly those headed by a male householder, have relatively high median incomes.
 Female householder nonfamily households have the lowest median income and the highest variance, suggesting greater income inequality.
 
-### Does your nativity effect your median income?
+### 4. Does your nativity effect your median income?
 The data shows income distribution of native-born and foreign-born individuals in 2020 and 2021, categorized into naturalized citizens and non-citizens. In 2020, more native-born individuals had income, but naturalized citizens had a higher number of individuals with an income than non-citizens. In 2021, there was an increase in the number of individuals with income for all categories.
 
 
