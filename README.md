@@ -1,4 +1,6 @@
 ### RhoMain
+### The completed code is found in "Combined Data"
+#### the data file can be found in "2021_data.xlsx
 
 # Census Data , Understanding factors that effect median income.
 
